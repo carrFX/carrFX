@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-Fullstack Web Developer with **nearly two years of experience** building **production applications** in **fintech** and **social-impact** domains. Based in **South Jakarta, Indonesia**.
+Fullstack Web Developer with **nearly three years of experience** building **production applications** in **fintech** and **social-impact** domains. Based in **South Jakarta, Indonesia**.
 
 I work across **legacy and modern stacks** — PHP (CodeIgniter), JavaScript/TypeScript, jQuery, **Nuxt.js**, and **React/Next.js** — with **Node.js**, **MySQL**, and **MongoDB** in **microservices** and **Agile (Scrum)** teams. I focus on performance, stability, and UX: helping maintain **up to 99.9% uptime**, reducing page load time by **40–45%**, and shipping with stronger Git workflows and code quality.
 
